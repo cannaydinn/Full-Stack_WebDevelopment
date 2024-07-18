@@ -1,0 +1,15 @@
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik04\Pratik04\obj\Debug\net8.0\Pratik04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik04\Pratik04\obj\Debug\net8.0\Pratik04.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik04\Pratik04\obj\Debug\net8.0\Pratik04.AssemblyInfo.cs
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik04\Pratik04\obj\Debug\net8.0\Pratik04.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik04\Pratik04\obj\Debug\net8.0\Pratik04.sourcelink.json
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik04\Pratik04\bin\Debug\net8.0\Pratik04.exe
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik04\Pratik04\bin\Debug\net8.0\Pratik04.deps.json
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik04\Pratik04\bin\Debug\net8.0\Pratik04.runtimeconfig.json
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik04\Pratik04\bin\Debug\net8.0\Pratik04.dll
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik04\Pratik04\bin\Debug\net8.0\Pratik04.pdb
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik04\Pratik04\obj\Debug\net8.0\Pratik04.dll
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik04\Pratik04\obj\Debug\net8.0\refint\Pratik04.dll
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik04\Pratik04\obj\Debug\net8.0\Pratik04.pdb
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik04\Pratik04\obj\Debug\net8.0\Pratik04.genruntimeconfig.cache
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik04\Pratik04\obj\Debug\net8.0\ref\Pratik04.dll
