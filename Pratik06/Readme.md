@@ -1,0 +1,1 @@
+# For yapısıyla ilgili örnekler
