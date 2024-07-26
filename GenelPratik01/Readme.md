@@ -1,0 +1,1 @@
+## Haftalık Genel Pratik Yapıldı.
