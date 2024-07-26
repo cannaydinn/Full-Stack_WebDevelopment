@@ -1,0 +1,15 @@
+C:\Users\Can\Desktop\FullStackWebDevelopment\GenelPratik01\GenelPratik01\bin\Debug\net8.0\GenelPratik01.exe
+C:\Users\Can\Desktop\FullStackWebDevelopment\GenelPratik01\GenelPratik01\bin\Debug\net8.0\GenelPratik01.deps.json
+C:\Users\Can\Desktop\FullStackWebDevelopment\GenelPratik01\GenelPratik01\bin\Debug\net8.0\GenelPratik01.runtimeconfig.json
+C:\Users\Can\Desktop\FullStackWebDevelopment\GenelPratik01\GenelPratik01\bin\Debug\net8.0\GenelPratik01.dll
+C:\Users\Can\Desktop\FullStackWebDevelopment\GenelPratik01\GenelPratik01\bin\Debug\net8.0\GenelPratik01.pdb
+C:\Users\Can\Desktop\FullStackWebDevelopment\GenelPratik01\GenelPratik01\obj\Debug\net8.0\GenelPratik01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\FullStackWebDevelopment\GenelPratik01\GenelPratik01\obj\Debug\net8.0\GenelPratik01.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\FullStackWebDevelopment\GenelPratik01\GenelPratik01\obj\Debug\net8.0\GenelPratik01.AssemblyInfo.cs
+C:\Users\Can\Desktop\FullStackWebDevelopment\GenelPratik01\GenelPratik01\obj\Debug\net8.0\GenelPratik01.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\FullStackWebDevelopment\GenelPratik01\GenelPratik01\obj\Debug\net8.0\GenelPratik01.sourcelink.json
+C:\Users\Can\Desktop\FullStackWebDevelopment\GenelPratik01\GenelPratik01\obj\Debug\net8.0\GenelPratik01.dll
+C:\Users\Can\Desktop\FullStackWebDevelopment\GenelPratik01\GenelPratik01\obj\Debug\net8.0\refint\GenelPratik01.dll
+C:\Users\Can\Desktop\FullStackWebDevelopment\GenelPratik01\GenelPratik01\obj\Debug\net8.0\GenelPratik01.pdb
+C:\Users\Can\Desktop\FullStackWebDevelopment\GenelPratik01\GenelPratik01\obj\Debug\net8.0\GenelPratik01.genruntimeconfig.cache
+C:\Users\Can\Desktop\FullStackWebDevelopment\GenelPratik01\GenelPratik01\obj\Debug\net8.0\ref\GenelPratik01.dll
