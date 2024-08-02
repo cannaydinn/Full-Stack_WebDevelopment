@@ -3,8 +3,8 @@
 * Bebek sınıfının propertyleri -> Doğum Tarihi , Ad , Soyad 
 
 * Bebek sınıfı için 2 adet constructor tanımlandı.
-  * 1.si Default Constructor tarzında parametre almayan bir metot.
-  * 2.si Ad ve Soyad parametrelerini alarak newleme işlemi sırasında değerleri propertylere atayan alternatif constructor.
+  *  Default Constructor tarzında parametre almayan bir metot.
+  *  Ad ve Soyad parametrelerini alarak newleme işlemi sırasında değerleri propertylere atayan alternatif constructor.
 
 * 2 Constructor içinde ortak olarak bebek nesnesi oluşturulduğunda konsol ekranında bir " Ingaaaa " yazısı görülsün ve Doğum Tarihi o an olarak atandı..
 
