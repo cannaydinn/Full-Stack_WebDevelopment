@@ -1,0 +1,15 @@
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik13\Pratik13\obj\Debug\net8.0\Pratik13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik13\Pratik13\obj\Debug\net8.0\Pratik13.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik13\Pratik13\obj\Debug\net8.0\Pratik13.AssemblyInfo.cs
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik13\Pratik13\obj\Debug\net8.0\Pratik13.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik13\Pratik13\obj\Debug\net8.0\Pratik13.sourcelink.json
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik13\Pratik13\bin\Debug\net8.0\Pratik13.exe
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik13\Pratik13\bin\Debug\net8.0\Pratik13.deps.json
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik13\Pratik13\bin\Debug\net8.0\Pratik13.runtimeconfig.json
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik13\Pratik13\bin\Debug\net8.0\Pratik13.dll
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik13\Pratik13\bin\Debug\net8.0\Pratik13.pdb
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik13\Pratik13\obj\Debug\net8.0\Pratik13.dll
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik13\Pratik13\obj\Debug\net8.0\refint\Pratik13.dll
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik13\Pratik13\obj\Debug\net8.0\Pratik13.pdb
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik13\Pratik13\obj\Debug\net8.0\Pratik13.genruntimeconfig.cache
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik13\Pratik13\obj\Debug\net8.0\ref\Pratik13.dll
