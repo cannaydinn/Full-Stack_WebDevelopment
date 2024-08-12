@@ -3,8 +3,8 @@
 Bu proje, bir teknoloji mağazasında Telefon ve Bilgisayar ürünlerinin kayıt altına alınmasını ve yönetilmesini sağlayan bir konsol uygulamasıdır.
 
 ## Teknolojiler
-Bu proje C# dilinde yazılmış olup nesne yönelimli programlama (OOP) ilkelerini kullanarak sınıf ve metodlar arasında kalıtım, kapsülleme, polimorfizm ve soyutlama gibi kavramlar kullanılmıştır.
-.NET 8 SDK: Bu projede, C# dilinde yazılmış kodların derlenmesi ve çalıştırılması için .NET 8 SDK kullanılmıştır.
+- **Bu proje C# dilinde yazılmış olup nesne yönelimli programlama (OOP) ilkelerini kullanarak sınıf ve metodlar arasında kalıtım, kapsülleme, polimorfizm ve soyutlama gibi kavramlar kullanılmıştır.
+- **.NET 8 SDK: Bu projede, C# dilinde yazılmış kodların derlenmesi ve çalıştırılması için .NET 8 SDK kullanılmıştır.
 
 ## Özellikler
 
