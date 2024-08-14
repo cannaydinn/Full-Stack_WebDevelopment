@@ -15,18 +15,7 @@ Bu proje, kullanıcının konsol üzerinden gireceği kahve isimleriyle bir list
 - `foreach` döngüsü kullanılarak listenin elemanları ekrana yazdırılır.
 
 ## Örnek Kullanım
-Kahve 1: Latte
-Kahve 2: Espresso
-Kahve 3: Cappuccino
-Kahve 4: Mocha
-Kahve 5: Americano
-
-Girilen kahve isimleri:
-Latte
-Espresso
-Cappuccino
-Mocha
-Americano
+![alt text](http://url/to/img.png)
   
 
 ## Kullanılan Teknolojiler
