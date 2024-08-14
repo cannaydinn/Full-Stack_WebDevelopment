@@ -15,7 +15,7 @@ Bu proje, kullanıcının konsol üzerinden gireceği kahve isimleriyle bir list
 - `foreach` döngüsü kullanılarak listenin elemanları ekrana yazdırılır.
 
 ## Örnek Kullanım
-![alt text](http://url/to/img.png)
+![alt text](Konsol_Ekrani.png)
   
 
 ## Kullanılan Teknolojiler
