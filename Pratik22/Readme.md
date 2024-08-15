@@ -10,7 +10,7 @@ Bu proje, C# kullanılarak geliştirilen basit bir konsol uygulamasıdır. Kulla
 4. **İsme Göre Filmleri Listeleme**: İsmi "A" harfi ile başlayan filmleri ve IMDB puanlarını listeler.
 
 ## Örnek Kullanım
-![alt text](img/Konsol_Ekrani_2.png)
+![alt text](img/Konsol_Ekrani.png)
 
 ## Kullanılan Teknolojiler
 
