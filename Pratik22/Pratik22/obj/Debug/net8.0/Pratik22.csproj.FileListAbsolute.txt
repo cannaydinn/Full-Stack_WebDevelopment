@@ -1,0 +1,15 @@
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik22\Pratik22\bin\Debug\net8.0\Pratik22.exe
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik22\Pratik22\bin\Debug\net8.0\Pratik22.deps.json
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik22\Pratik22\bin\Debug\net8.0\Pratik22.runtimeconfig.json
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik22\Pratik22\bin\Debug\net8.0\Pratik22.dll
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik22\Pratik22\bin\Debug\net8.0\Pratik22.pdb
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik22\Pratik22\obj\Debug\net8.0\Pratik22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik22\Pratik22\obj\Debug\net8.0\Pratik22.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik22\Pratik22\obj\Debug\net8.0\Pratik22.AssemblyInfo.cs
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik22\Pratik22\obj\Debug\net8.0\Pratik22.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik22\Pratik22\obj\Debug\net8.0\Pratik22.sourcelink.json
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik22\Pratik22\obj\Debug\net8.0\Pratik22.dll
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik22\Pratik22\obj\Debug\net8.0\refint\Pratik22.dll
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik22\Pratik22\obj\Debug\net8.0\Pratik22.pdb
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik22\Pratik22\obj\Debug\net8.0\Pratik22.genruntimeconfig.cache
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik22\Pratik22\obj\Debug\net8.0\ref\Pratik22.dll
