@@ -9,6 +9,9 @@ Bu proje, C# kullanılarak geliştirilen basit bir konsol uygulamasıdır. Kulla
 3. **IMDB Puanına Göre Filmleri Listeleme**: IMDB puanı 4 ile 9 arasında olan filmleri listeler.
 4. **İsme Göre Filmleri Listeleme**: İsmi "A" harfi ile başlayan filmleri ve IMDB puanlarını listeler.
 
+## Örnek Kullanım
+![alt text](img/Konsol_Ekrani_2.png)
+
 ## Kullanılan Teknolojiler
 
 - **C#**: Ana programlama dili.
