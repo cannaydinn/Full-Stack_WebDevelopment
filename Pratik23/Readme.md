@@ -8,6 +8,6 @@ Bu projede, `while` döngüsü ve `try-catch` bloğu kullanılarak, kullanıcıd
 
 ## Kullanılan Teknolojiler
 
-	•	C#: Programlama dili
-	•	.NET Core: Projenin geliştirildiği ve çalıştığı platform
-	•	Exception Handling: Hatalı girişlerin yönetimi
+- C#: Programlama dili
+- .NET Core: Projenin geliştirildiği ve çalıştığı platform
+- Exception Handling: Hatalı girişlerin yönetimi
