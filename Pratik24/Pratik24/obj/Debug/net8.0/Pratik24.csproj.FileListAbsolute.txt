@@ -1,0 +1,15 @@
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik24\Pratik24\bin\Debug\net8.0\Pratik24.exe
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik24\Pratik24\bin\Debug\net8.0\Pratik24.deps.json
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik24\Pratik24\bin\Debug\net8.0\Pratik24.runtimeconfig.json
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik24\Pratik24\bin\Debug\net8.0\Pratik24.dll
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik24\Pratik24\bin\Debug\net8.0\Pratik24.pdb
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik24\Pratik24\obj\Debug\net8.0\Pratik24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik24\Pratik24\obj\Debug\net8.0\Pratik24.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik24\Pratik24\obj\Debug\net8.0\Pratik24.AssemblyInfo.cs
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik24\Pratik24\obj\Debug\net8.0\Pratik24.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik24\Pratik24\obj\Debug\net8.0\Pratik24.sourcelink.json
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik24\Pratik24\obj\Debug\net8.0\Pratik24.dll
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik24\Pratik24\obj\Debug\net8.0\refint\Pratik24.dll
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik24\Pratik24\obj\Debug\net8.0\Pratik24.pdb
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik24\Pratik24\obj\Debug\net8.0\Pratik24.genruntimeconfig.cache
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik24\Pratik24\obj\Debug\net8.0\ref\Pratik24.dll
