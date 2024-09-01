@@ -1,0 +1,15 @@
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik29\Pratik29\obj\Debug\net8.0\Pratik29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik29\Pratik29\obj\Debug\net8.0\Pratik29.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik29\Pratik29\obj\Debug\net8.0\Pratik29.AssemblyInfo.cs
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik29\Pratik29\obj\Debug\net8.0\Pratik29.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik29\Pratik29\obj\Debug\net8.0\Pratik29.sourcelink.json
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik29\Pratik29\bin\Debug\net8.0\Pratik29.exe
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik29\Pratik29\bin\Debug\net8.0\Pratik29.deps.json
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik29\Pratik29\bin\Debug\net8.0\Pratik29.runtimeconfig.json
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik29\Pratik29\bin\Debug\net8.0\Pratik29.dll
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik29\Pratik29\bin\Debug\net8.0\Pratik29.pdb
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik29\Pratik29\obj\Debug\net8.0\Pratik29.dll
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik29\Pratik29\obj\Debug\net8.0\refint\Pratik29.dll
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik29\Pratik29\obj\Debug\net8.0\Pratik29.pdb
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik29\Pratik29\obj\Debug\net8.0\Pratik29.genruntimeconfig.cache
+C:\Users\Can\Desktop\FullStackWebDevelopment\Pratik29\Pratik29\obj\Debug\net8.0\ref\Pratik29.dll
