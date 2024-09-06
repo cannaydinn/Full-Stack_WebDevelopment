@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pratik30.props" />
+</Project>
