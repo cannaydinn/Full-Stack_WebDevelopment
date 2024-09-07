@@ -24,7 +24,7 @@ Bu proje, müşteri bilgilerini ve ilgili siparişleri görüntülemek için bas
 BasicMVCProject/</br>
 │</br>
 ├── Controllers/</br>
-│   └── CustomerOrdersController.cs    # Müşteri ve siparişlerin yönetimi için controller
+│   └── CustomerOrdersController.cs </br>   # Müşteri ve siparişlerin yönetimi için controller
 │
 ├── Models/
 │   ├── Customer.cs                    # Müşteri modeli
