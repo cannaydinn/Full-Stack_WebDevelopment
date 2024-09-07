@@ -22,10 +22,10 @@ Bu proje, müşteri bilgilerini ve ilgili siparişleri görüntülemek için bas
 
 ## Proje Yapısı
 BasicMVCProject/</br>
-│</br>
-├── Controllers/</br>
+│ </br>
+├── Controllers/ </br>
 │   └── CustomerOrdersController.cs </br>   # Müşteri ve siparişlerin yönetimi için controller
-│
+│ </br>
 ├── Models/
 │   ├── Customer.cs                    # Müşteri modeli
 │   └── Order.cs                       # Sipariş modeli
