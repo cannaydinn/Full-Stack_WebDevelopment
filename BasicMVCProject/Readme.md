@@ -1,6 +1,6 @@
 # Basic MVC Projesi
 
-Bu proje, müşteri bilgilerini ve ilgili siparişleri görüntülemek için basit bir **ASP.NET MVC** uygulamasıdır. Proje, **Model-View-Controller (MVC)** desenini kullanarak ASP.NET MVC'de müşteriler ve siparişlerin nasıl yönetileceğini ve görüntüleneceğini göstermek amacıyla hazırlanmıştır.
+Bu proje, müşteri bilgilerini ve ilgili siparişleri görüntülemek için basit bir **ASP.NET MVC** uygulamasıdır. Proje, müşteriler ve siparişlerin nasıl yönetileceğini ve görüntüleneceğini göstermek amacıyla hazırlanmıştır.
 
 ## Kullanılan Teknolojiler
 
