@@ -32,6 +32,7 @@ This endpoint returns a list of all crazy musicians.
   },
   ...
 ]
+```
 
 ### 2. Get Specific Musician by ID
 
@@ -46,6 +47,7 @@ Returns the musician with the specified id.
   "profession": "Famous Musical Instrument Player",
   "entertainingTrait": "Always hits the wrong note, but it's so much fun"
 }
+```
 
 ### 3. Create a New Musician
 
@@ -59,6 +61,7 @@ Adds a new musician to the list.
   "profession": "Music Professional",
   "entertainingTrait": "Interesting trait"
 }
+```
 
 ### 4. Update a Musician
 
@@ -72,6 +75,7 @@ Updates the musician’s details for the given id.
   "profession": "Updated Job",
   "entertainingTrait": "Updated fun fact"
 }
+```
 
 ### 5. Partially Update a Musician’s Trait
 
@@ -83,6 +87,7 @@ Updates only the EntertainingTrait of the musician.
 {
   "entertainingTrait": "New Entertaining Trait"
 }
+```
 
 **Response:**
 ```json
@@ -92,6 +97,7 @@ Updates only the EntertainingTrait of the musician.
   "profession": "Famous Musical Instrument Player",
   "entertainingTrait": "New Entertaining Trait"
 }
+```
 
 ### 6. Delete a Musician
 
@@ -104,3 +110,4 @@ Marks a musician as deleted (soft delete, sets IsDeleted to true).
   "id": 1,
   "isDeleted": true
 }
+```
