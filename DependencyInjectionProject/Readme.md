@@ -20,10 +20,4 @@ Bu proje, ASP.NET Core üzerinde bağımlılık enjeksiyonu (Dependency Injectio
 
 - .NET 7.0 SDK
 - Entity Framework Core
-- SQL Server veya uygun bir veritabanı
-
-{
-  "ConnectionStrings": {
-    "DefaultConnection": "Server=.;Database=TeacherDb;Trusted_Connection=True;"
-  }
-}
+- SQL Server
