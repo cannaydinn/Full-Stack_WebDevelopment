@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\Survivor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CE8295-B234-4C74-B59E-E7AFA4AEA457}|Survivor\\Survivor.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\survivor\\survivor\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CE8295-B234-4C74-B59E-E7AFA4AEA457}|Survivor\\Survivor.csproj|solutionrelative:survivor\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CE8295-B234-4C74-B59E-E7AFA4AEA457}|Survivor\\Survivor.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\survivor\\survivor\\controllers\\competitorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CE8295-B234-4C74-B59E-E7AFA4AEA457}|Survivor\\Survivor.csproj|solutionrelative:survivor\\controllers\\competitorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CE8295-B234-4C74-B59E-E7AFA4AEA457}|Survivor\\Survivor.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\survivor\\survivor\\entities\\categoryentitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CE8295-B234-4C74-B59E-E7AFA4AEA457}|Survivor\\Survivor.csproj|solutionrelative:survivor\\entities\\categoryentitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CE8295-B234-4C74-B59E-E7AFA4AEA457}|Survivor\\Survivor.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\survivor\\survivor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CE8295-B234-4C74-B59E-E7AFA4AEA457}|Survivor\\Survivor.csproj|solutionrelative:survivor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CE8295-B234-4C74-B59E-E7AFA4AEA457}|Survivor\\Survivor.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\survivor\\survivor\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5CE8295-B234-4C74-B59E-E7AFA4AEA457}|Survivor\\Survivor.csproj|solutionrelative:survivor\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CE8295-B234-4C74-B59E-E7AFA4AEA457}|Survivor\\Survivor.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\survivor\\survivor\\context\\survivordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CE8295-B234-4C74-B59E-E7AFA4AEA457}|Survivor\\Survivor.csproj|solutionrelative:survivor\\context\\survivordbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CE8295-B234-4C74-B59E-E7AFA4AEA457}|Survivor\\Survivor.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\survivor\\survivor\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CE8295-B234-4C74-B59E-E7AFA4AEA457}|Survivor\\Survivor.csproj|solutionrelative:survivor\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\Survivor\\Survivor\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Survivor\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\Survivor\\Survivor\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Survivor\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:16:22.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\Survivor\\Survivor\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Survivor\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\Survivor\\Survivor\\appsettings.Development.json",
+              "RelativeToolTip": "Survivor\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T13:52:41.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\Survivor\\Survivor\\Program.cs",
+              "RelativeDocumentMoniker": "Survivor\\Program.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\Survivor\\Survivor\\Program.cs",
+              "RelativeToolTip": "Survivor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:46:55.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryEntitiy.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\Survivor\\Survivor\\Entities\\CategoryEntitiy.cs",
+              "RelativeDocumentMoniker": "Survivor\\Entities\\CategoryEntitiy.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\Survivor\\Survivor\\Entities\\CategoryEntitiy.cs",
+              "RelativeToolTip": "Survivor\\Entities\\CategoryEntitiy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:42:28.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompetitorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\Survivor\\Survivor\\Controllers\\CompetitorsController.cs",
+              "RelativeDocumentMoniker": "Survivor\\Controllers\\CompetitorsController.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\Survivor\\Survivor\\Controllers\\CompetitorsController.cs",
+              "RelativeToolTip": "Survivor\\Controllers\\CompetitorsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:35:57.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SurvivorDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\Survivor\\Survivor\\Context\\SurvivorDbContext.cs",
+              "RelativeDocumentMoniker": "Survivor\\Context\\SurvivorDbContext.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\Survivor\\Survivor\\Context\\SurvivorDbContext.cs",
+              "RelativeToolTip": "Survivor\\Context\\SurvivorDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:35:24.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\Survivor\\Survivor\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Survivor\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\Survivor\\Survivor\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Survivor\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:40:14.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
