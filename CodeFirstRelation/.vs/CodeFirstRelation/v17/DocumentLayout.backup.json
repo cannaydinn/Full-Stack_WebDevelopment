@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\CodeFirstRelation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A14A0FBE-1E61-45A6-BA8C-03B9D8CD26EF}|CodeFirstRelation\\CodeFirstRelation.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\codefirstrelation\\codefirstrelation\\context\\patikaseconddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A14A0FBE-1E61-45A6-BA8C-03B9D8CD26EF}|CodeFirstRelation\\CodeFirstRelation.csproj|solutionrelative:codefirstrelation\\context\\patikaseconddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14A0FBE-1E61-45A6-BA8C-03B9D8CD26EF}|CodeFirstRelation\\CodeFirstRelation.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\codefirstrelation\\codefirstrelation\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A14A0FBE-1E61-45A6-BA8C-03B9D8CD26EF}|CodeFirstRelation\\CodeFirstRelation.csproj|solutionrelative:codefirstrelation\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14A0FBE-1E61-45A6-BA8C-03B9D8CD26EF}|CodeFirstRelation\\CodeFirstRelation.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\codefirstrelation\\codefirstrelation\\entities\\postentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A14A0FBE-1E61-45A6-BA8C-03B9D8CD26EF}|CodeFirstRelation\\CodeFirstRelation.csproj|solutionrelative:codefirstrelation\\entities\\postentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14A0FBE-1E61-45A6-BA8C-03B9D8CD26EF}|CodeFirstRelation\\CodeFirstRelation.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\codefirstrelation\\codefirstrelation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A14A0FBE-1E61-45A6-BA8C-03B9D8CD26EF}|CodeFirstRelation\\CodeFirstRelation.csproj|solutionrelative:codefirstrelation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14A0FBE-1E61-45A6-BA8C-03B9D8CD26EF}|CodeFirstRelation\\CodeFirstRelation.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\codefirstrelation\\codefirstrelation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A14A0FBE-1E61-45A6-BA8C-03B9D8CD26EF}|CodeFirstRelation\\CodeFirstRelation.csproj|solutionrelative:codefirstrelation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14A0FBE-1E61-45A6-BA8C-03B9D8CD26EF}|CodeFirstRelation\\CodeFirstRelation.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\codefirstrelation\\codefirstrelation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A14A0FBE-1E61-45A6-BA8C-03B9D8CD26EF}|CodeFirstRelation\\CodeFirstRelation.csproj|solutionrelative:codefirstrelation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\CodeFirstRelation\\CodeFirstRelation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CodeFirstRelation\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\CodeFirstRelation\\CodeFirstRelation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CodeFirstRelation\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:23:50.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\CodeFirstRelation\\CodeFirstRelation\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirstRelation\\Program.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\CodeFirstRelation\\CodeFirstRelation\\Program.cs",
+              "RelativeToolTip": "CodeFirstRelation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:25:28.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\CodeFirstRelation\\CodeFirstRelation\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CodeFirstRelation\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\CodeFirstRelation\\CodeFirstRelation\\appsettings.Development.json",
+              "RelativeToolTip": "CodeFirstRelation\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T16:00:31.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\CodeFirstRelation\\CodeFirstRelation\\Entities\\PostEntity.cs",
+              "RelativeDocumentMoniker": "CodeFirstRelation\\Entities\\PostEntity.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\CodeFirstRelation\\CodeFirstRelation\\Entities\\PostEntity.cs",
+              "RelativeToolTip": "CodeFirstRelation\\Entities\\PostEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:27:38.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\CodeFirstRelation\\CodeFirstRelation\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "CodeFirstRelation\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\CodeFirstRelation\\CodeFirstRelation\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "CodeFirstRelation\\Entities\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:27:29.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatikaSecondDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\CodeFirstRelation\\CodeFirstRelation\\Context\\PatikaSecondDbContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstRelation\\Context\\PatikaSecondDbContext.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\CodeFirstRelation\\CodeFirstRelation\\Context\\PatikaSecondDbContext.cs",
+              "RelativeToolTip": "CodeFirstRelation\\Context\\PatikaSecondDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:27:02.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
