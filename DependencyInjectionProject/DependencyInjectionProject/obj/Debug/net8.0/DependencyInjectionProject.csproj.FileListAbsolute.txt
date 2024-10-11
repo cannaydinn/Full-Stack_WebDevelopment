@@ -1,0 +1,8 @@
+C:\Users\Can\Desktop\Full-Stack_WebDevelopment\DependencyInjectionProject\DependencyInjectionProject\obj\Debug\net8.0\DependencyInjectionProject.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\Full-Stack_WebDevelopment\DependencyInjectionProject\DependencyInjectionProject\obj\Debug\net8.0\DependencyInjectionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\Full-Stack_WebDevelopment\DependencyInjectionProject\DependencyInjectionProject\obj\Debug\net8.0\DependencyInjectionProject.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\Full-Stack_WebDevelopment\DependencyInjectionProject\DependencyInjectionProject\obj\Debug\net8.0\DependencyInjectionProject.AssemblyInfo.cs
+C:\Users\Can\Desktop\Full-Stack_WebDevelopment\DependencyInjectionProject\DependencyInjectionProject\obj\Debug\net8.0\DependencyInjectionProject.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Full-Stack_WebDevelopment\DependencyInjectionProject\DependencyInjectionProject\obj\Debug\net8.0\DependencyInjectionProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Can\Desktop\Full-Stack_WebDevelopment\DependencyInjectionProject\DependencyInjectionProject\obj\Debug\net8.0\DependencyInjectionProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Can\Desktop\Full-Stack_WebDevelopment\DependencyInjectionProject\DependencyInjectionProject\obj\Debug\net8.0\DependencyInjectionProject.sourcelink.json
