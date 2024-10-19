@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63BB5DA5-290C-4F90-8942-4E1C54B321A9}|IdentityDataProtectionProject\\IdentityDataProtectionProject.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\identitydataprotectionproject\\identitydataprotectionproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63BB5DA5-290C-4F90-8942-4E1C54B321A9}|IdentityDataProtectionProject\\IdentityDataProtectionProject.csproj|solutionrelative:identitydataprotectionproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BB5DA5-290C-4F90-8942-4E1C54B321A9}|IdentityDataProtectionProject\\IdentityDataProtectionProject.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\identitydataprotectionproject\\identitydataprotectionproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63BB5DA5-290C-4F90-8942-4E1C54B321A9}|IdentityDataProtectionProject\\IdentityDataProtectionProject.csproj|solutionrelative:identitydataprotectionproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BB5DA5-290C-4F90-8942-4E1C54B321A9}|IdentityDataProtectionProject\\IdentityDataProtectionProject.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\identitydataprotectionproject\\identitydataprotectionproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BB5DA5-290C-4F90-8942-4E1C54B321A9}|IdentityDataProtectionProject\\IdentityDataProtectionProject.csproj|solutionrelative:identitydataprotectionproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BB5DA5-290C-4F90-8942-4E1C54B321A9}|IdentityDataProtectionProject\\IdentityDataProtectionProject.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\identitydataprotectionproject\\identitydataprotectionproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63BB5DA5-290C-4F90-8942-4E1C54B321A9}|IdentityDataProtectionProject\\IdentityDataProtectionProject.csproj|solutionrelative:identitydataprotectionproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\Migrations\\20241019144658_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IdentityDataProtectionProject\\Migrations\\20241019144658_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BB5DA5-290C-4F90-8942-4E1C54B321A9}|IdentityDataProtectionProject\\IdentityDataProtectionProject.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\identitydataprotectionproject\\identitydataprotectionproject\\context\\customidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BB5DA5-290C-4F90-8942-4E1C54B321A9}|IdentityDataProtectionProject\\IdentityDataProtectionProject.csproj|solutionrelative:identitydataprotectionproject\\context\\customidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BB5DA5-290C-4F90-8942-4E1C54B321A9}|IdentityDataProtectionProject\\IdentityDataProtectionProject.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\identitydataprotectionproject\\identitydataprotectionproject\\models\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BB5DA5-290C-4F90-8942-4E1C54B321A9}|IdentityDataProtectionProject\\IdentityDataProtectionProject.csproj|solutionrelative:identitydataprotectionproject\\models\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BB5DA5-290C-4F90-8942-4E1C54B321A9}|IdentityDataProtectionProject\\IdentityDataProtectionProject.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\identitydataprotectionproject\\identitydataprotectionproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BB5DA5-290C-4F90-8942-4E1C54B321A9}|IdentityDataProtectionProject\\IdentityDataProtectionProject.csproj|solutionrelative:identitydataprotectionproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BB5DA5-290C-4F90-8942-4E1C54B321A9}|IdentityDataProtectionProject\\IdentityDataProtectionProject.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\identitydataprotectionproject\\identitydataprotectionproject\\dtos\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BB5DA5-290C-4F90-8942-4E1C54B321A9}|IdentityDataProtectionProject\\IdentityDataProtectionProject.csproj|solutionrelative:identitydataprotectionproject\\dtos\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BB5DA5-290C-4F90-8942-4E1C54B321A9}|IdentityDataProtectionProject\\IdentityDataProtectionProject.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\identitydataprotectionproject\\identitydataprotectionproject\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BB5DA5-290C-4F90-8942-4E1C54B321A9}|IdentityDataProtectionProject\\IdentityDataProtectionProject.csproj|solutionrelative:identitydataprotectionproject\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BB5DA5-290C-4F90-8942-4E1C54B321A9}|IdentityDataProtectionProject\\IdentityDataProtectionProject.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\identitydataprotectionproject\\identitydataprotectionproject\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BB5DA5-290C-4F90-8942-4E1C54B321A9}|IdentityDataProtectionProject\\IdentityDataProtectionProject.csproj|solutionrelative:identitydataprotectionproject\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BB5DA5-290C-4F90-8942-4E1C54B321A9}|IdentityDataProtectionProject\\IdentityDataProtectionProject.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\identitydataprotectionproject\\identitydataprotectionproject\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BB5DA5-290C-4F90-8942-4E1C54B321A9}|IdentityDataProtectionProject\\IdentityDataProtectionProject.csproj|solutionrelative:identitydataprotectionproject\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63BB5DA5-290C-4F90-8942-4E1C54B321A9}|IdentityDataProtectionProject\\IdentityDataProtectionProject.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\identitydataprotectionproject\\identitydataprotectionproject\\types\\servicemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BB5DA5-290C-4F90-8942-4E1C54B321A9}|IdentityDataProtectionProject\\IdentityDataProtectionProject.csproj|solutionrelative:identitydataprotectionproject\\types\\servicemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IdentityDataProtectionProject\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IdentityDataProtectionProject\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T15:13:27.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\appsettings.json",
+              "RelativeDocumentMoniker": "IdentityDataProtectionProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\appsettings.json",
+              "RelativeToolTip": "IdentityDataProtectionProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T15:08:20.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241019144658_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\Migrations\\20241019144658_InitialCreate.cs",
+              "RelativeDocumentMoniker": "IdentityDataProtectionProject\\Migrations\\20241019144658_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\Migrations\\20241019144658_InitialCreate.cs",
+              "RelativeToolTip": "IdentityDataProtectionProject\\Migrations\\20241019144658_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:46:59.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "IdentityDataProtectionProject\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\appsettings.Development.json",
+              "RelativeToolTip": "IdentityDataProtectionProject\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T14:36:18.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\Models\\UserRequest.cs",
+              "RelativeDocumentMoniker": "IdentityDataProtectionProject\\Models\\UserRequest.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\Models\\UserRequest.cs",
+              "RelativeToolTip": "IdentityDataProtectionProject\\Models\\UserRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:50:52.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\Dtos\\AddUserDto.cs",
+              "RelativeDocumentMoniker": "IdentityDataProtectionProject\\Dtos\\AddUserDto.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\Dtos\\AddUserDto.cs",
+              "RelativeToolTip": "IdentityDataProtectionProject\\Dtos\\AddUserDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:17:28.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "IdentityDataProtectionProject\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "IdentityDataProtectionProject\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:41:49.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\Program.cs",
+              "RelativeDocumentMoniker": "IdentityDataProtectionProject\\Program.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\Program.cs",
+              "RelativeToolTip": "IdentityDataProtectionProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:37:27.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomIdentityDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\Context\\CustomIdentityDbContext.cs",
+              "RelativeDocumentMoniker": "IdentityDataProtectionProject\\Context\\CustomIdentityDbContext.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\Context\\CustomIdentityDbContext.cs",
+              "RelativeToolTip": "IdentityDataProtectionProject\\Context\\CustomIdentityDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:07:06.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "IdentityDataProtectionProject\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "IdentityDataProtectionProject\\Entities\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:02:27.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "IdentityDataProtectionProject\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\Services\\IUserService.cs",
+              "RelativeToolTip": "IdentityDataProtectionProject\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:42:44.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\Managers\\UserManager.cs",
+              "RelativeDocumentMoniker": "IdentityDataProtectionProject\\Managers\\UserManager.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\Managers\\UserManager.cs",
+              "RelativeToolTip": "IdentityDataProtectionProject\\Managers\\UserManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:46:43.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceMessage.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\Types\\ServiceMessage.cs",
+              "RelativeDocumentMoniker": "IdentityDataProtectionProject\\Types\\ServiceMessage.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\IdentityDataProtectionProject\\IdentityDataProtectionProject\\Types\\ServiceMessage.cs",
+              "RelativeToolTip": "IdentityDataProtectionProject\\Types\\ServiceMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:45:11.612Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
