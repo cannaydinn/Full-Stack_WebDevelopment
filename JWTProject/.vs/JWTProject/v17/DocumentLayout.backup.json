@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\JWTProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4184250-EBE2-45D5-8DCD-C0150447F7CF}|JWTProject\\JWTProject.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\jwtproject\\jwtproject\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4184250-EBE2-45D5-8DCD-C0150447F7CF}|JWTProject\\JWTProject.csproj|solutionrelative:jwtproject\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4184250-EBE2-45D5-8DCD-C0150447F7CF}|JWTProject\\JWTProject.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\jwtproject\\jwtproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4184250-EBE2-45D5-8DCD-C0150447F7CF}|JWTProject\\JWTProject.csproj|solutionrelative:jwtproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4184250-EBE2-45D5-8DCD-C0150447F7CF}|JWTProject\\JWTProject.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\jwtproject\\jwtproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4184250-EBE2-45D5-8DCD-C0150447F7CF}|JWTProject\\JWTProject.csproj|solutionrelative:jwtproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4184250-EBE2-45D5-8DCD-C0150447F7CF}|JWTProject\\JWTProject.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\jwtproject\\jwtproject\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4184250-EBE2-45D5-8DCD-C0150447F7CF}|JWTProject\\JWTProject.csproj|solutionrelative:jwtproject\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\JWTProject\\JWTProject\\appsettings.json",
+              "RelativeDocumentMoniker": "JWTProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\JWTProject\\JWTProject\\appsettings.json",
+              "RelativeToolTip": "JWTProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-20T14:03:17.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\JWTProject\\JWTProject\\Program.cs",
+              "RelativeDocumentMoniker": "JWTProject\\Program.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\JWTProject\\JWTProject\\Program.cs",
+              "RelativeToolTip": "JWTProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:03:14.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\JWTProject\\JWTProject\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "JWTProject\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\JWTProject\\JWTProject\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "JWTProject\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T14:01:17.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\JWTProject\\JWTProject\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "JWTProject\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\can\\Desktop\\Full-Stack_WebDevelopment\\JWTProject\\JWTProject\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "JWTProject\\Entities\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T13:58:50.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
