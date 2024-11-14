@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kayıt Formu</title>
+</head>
+<body>
+    <!-- Form -->
+    <form action="./submit.html" method="get">
+        <!-- Text Input -->
+        <label for="name">Name:</label><br>
+        <input type="text" id="name" required><br>
+
+        <!-- Text Input -->
+        <label for="surname">Surname:</label><br>
+        <input type="text" id="surname" required><br>
+
+        <!-- Email Input -->
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" required><br>
+
+        <!-- Password Input -->
+        <label for="password">Password:</label><br>
+        <input type="password" id="password" required><br>
+
+        <!-- Radio Input -->
+        <label>Gender:</label><br>
+        <input type="radio" id="male" name="gender" value="male" required>
+        <label for="male">Male</label><br>
+        <input type="radio" id="female" name="gender" value="female" required>
+        <label for="female">Female</label><br>
+
+        <!-- Select/Option Input -->
+        <label for="favorite_fruit">Favorite Fruit:</label><br>
+        <select id="favorite_fruit" name="favorite_fruit">
+            <option hidden value="Select">Select</option>
+            <option value="Apple">Apple</option>
+            <option value="Banana">Banana</option>
+            <option value="Orange">Orange</option>
+        </select><br>
+
+        <!-- Textarea Input -->
+        <label for="message">Message</label>
+        <textarea name="message" id="message"></textarea><br>
+
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
