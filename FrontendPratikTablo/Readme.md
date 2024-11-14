@@ -1,0 +1,1 @@
+- A practice was done on creating table structures and styling in web programming.
