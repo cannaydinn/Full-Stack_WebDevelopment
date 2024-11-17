@@ -1,0 +1,42 @@
+body{
+    background-color:bisque;
+    margin: 0;
+    padding: 0;
+}
+
+ .navbar{
+    background-color: rgb(253, 211, 160);
+    padding: 20px;
+ }
+
+ a{
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+ }
+ .container{
+    padding: 0 150px 0 150px;
+ }
+
+ .title{
+    text-align: center;
+ }
+
+ .sectionFlex{
+    display: flex;
+ }
+.img{
+    margin-left: 50px;
+}
+
+.sectionForm{
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 300px;
+    border: 2px solid black;
+}
+
+
+ 
+ 
