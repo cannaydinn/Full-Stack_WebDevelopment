@@ -20,4 +20,4 @@ Bu proje, Mustafa Kemal Atatürk'ün hayatı, düşünceleri ve eserleri hakkın
 - **Görseller**: Atatürk'e ait önemli fotoğraflar ve portreler.
 
 
-![Alt Text](img/EkranResmi_1.png)
+![Alt Text](img/Ekran_Resmi_1.png)
