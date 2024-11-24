@@ -21,3 +21,6 @@ Bu proje, Mustafa Kemal Atatürk'ün hayatı, düşünceleri ve eserleri hakkın
 
 
 ![Alt Text](img/Ekran_Resmi_1.png)
+![Alt Text](img/Ekran_Resmi_2.png)
+![Alt Text](img/Ekran_Resmi_3.png)
+![Alt Text](img/Ekran_Resmi_4.png)
