@@ -19,7 +19,7 @@ Bu proje, HTML, CSS ve Bootstrap kullanılarak oluşturulmuş bir **Instagram cl
 
 ## 📷 Ekran Görüntüsü
 
-![Alt Text](/img/instagram_clone.png)
+![Alt Text](img/instagram_clone.png)
 
 ## 📂 Proje Yapısı
 
