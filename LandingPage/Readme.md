@@ -4,7 +4,7 @@ Welcome to the **Mamba Landing Page** project! This is a modern, responsive land
 
 ## 📸 Preview
 
-![Project Preview](img/Page-1)
+![Project Preview](src/img/Page-1)
 ![Project Preview](img/Page-2)
 ![Project Preview](img/Page-3)
 ![Project Preview](img/Page-4)
