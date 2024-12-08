@@ -23,14 +23,14 @@ Welcome to the **Mamba Landing Page** project! This is a modern, responsive land
 ---
 
 ## 📂 Project Structure
-'''
+```plaintext
 project-root/
 │
 ├── 📁 images/             # Image assets for the project
 ├── 📄 index.html          # Main HTML file for the landing page
 ├── 📄 output.css          # Compiled Tailwind CSS file
 └── 📄 README.md           # Documentation file (you are reading it)
-'''
+```
 ---
 
 ## 📦 Technologies Used
