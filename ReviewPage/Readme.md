@@ -4,10 +4,9 @@ This repository contains the code for a dynamic and responsive review page, desi
 
 ## 📸 Preview
 
-![Project Preview](src/img/Page-1.png)
-![Project Preview](src/img/Page-2.png)
-![Project Preview](src/img/Page-3.png)
-![Project Preview](src/img/Page-4.png)
+![Project Preview](src/assets/img/Page-1.png)
+![Project Preview](src/assets/img/Page-2.png)
+![Project Preview](src/assets/img/Page-3.png)
 
 
 ## Features
