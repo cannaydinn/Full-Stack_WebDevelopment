@@ -19,6 +19,14 @@ This repository contains the code for a dynamic and responsive review page, desi
 - **Tailwind CSS**: Utilizes Tailwind CSS for fast and efficient styling, ensuring a modern, clean, and highly customizable design.
 
 
+## Technologies Used
+
+- **HTML5**: The structure of the web page.
+- **CSS3**: For basic styling.
+- **Tailwind CSS**: For responsive, utility-first design.
+- **JavaScript (Optional)**: For enhanced interactivity, such as the search bar (if applicable).
+
+
 ## 📂 Project Structure
 ```plaintext
 project-root/
@@ -28,11 +36,3 @@ project-root/
 ├── 📄 output.css          # Compiled Tailwind CSS file
 └── 📄 README.md           # Documentation file
 ```
-
-
-## Technologies Used
-
-- **HTML5**: The structure of the web page.
-- **CSS3**: For basic styling.
-- **Tailwind CSS**: For responsive, utility-first design.
-- **JavaScript (Optional)**: For enhanced interactivity, such as the search bar (if applicable).
