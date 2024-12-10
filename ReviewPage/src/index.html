@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css">
+    <link href="./output.css" rel="stylesheet">
+    <title>Review Page</title>
+</head>
+<body>
+    <div class="flex flex-row justify-between bg-gray-100 pt-10 pb-10 px-32 items-center">
+        <!-- NavBar -->
+        <!-- Sol taraftaki Linkler -->
+        <ul class="flex flex-row">
+          <li class="relative mr-10 pb-2 text-violet-600 after:content-[''] after:absolute after:w-16 after:h-1 after:bg-violet-600 after:bottom-0 after:left-1/2 after:-translate-x-1/2">
+            Link
+          </li>
+          <!-- Diğer Linkler -->
+          <li class="relative mr-10 pb-2 hover:text-violet-600 after:content-[''] after:absolute after:w-16 after:h-1 after:bg-gray-300 after:bottom-0 after:left-1/2 after:-translate-x-1/2 hover:after:bg-violet-600">
+            Link
+          </li>
+          <li class="relative mr-10 pb-2 hover:text-violet-600 after:content-[''] after:absolute after:w-16 after:h-1 after:bg-gray-300 after:bottom-0 after:left-1/2 after:-translate-x-1/2 hover:after:bg-violet-600">
+            Link
+          </li>
+        </ul>
+      
+        <!-- Logo -->
+        <div>
+          <p>logo</p>
+        </div>
+      
+        <!-- Sağ tarafa hizalanacak Search ve Login -->
+        <div class="flex items-center space-x-6">
+          <!-- Search -->
+          <div class="flex relative">
+            <i class="fa-solid fa-magnifying-glass fa-flip-horizontal absolute left-2 top-3 text-black"></i>
+            <input
+              type="search"
+              class="pl-8 pr-4 py-2 bg-transparent focus:outline-none"
+              placeholder="Search..."
+            />
+          </div>
+      
+          <!-- Login Butonu -->
+          <div class="rounded bg-violet-600">
+            <button class="text-white font-bold px-6 py-2 rounded" type="button">Log in</button>
+          </div>
+        </div>
+      </div>
+      <!-- Navbar End -->
+
+      <!-- Content -->
+      <div class="bg-gray-300 flex items-center justify-center">
+        <div class="text-center max-w-2xl p-20">
+          <p class="font-bold text-5xl mb-4 leading-snug">
+            Quisquam necessita vel <span class="text-violet-600">laborum doloribus</span>delectus
+          </p>
+          <p class="text-gray-600 mb-6">
+            Cupiditate minima voluptate temporibus quia? <br />
+            Architecto beatae esse ab amet vero eaque explicabo!
+          </p>
+          <div class="flex justify-center space-x-4">
+            <button class="bg-violet-600 text-white px-6 py-2 rounded hover:bg-violet-600">
+              Get started
+            </button>
+            <button class="text-black px-6 py-2 ">
+              Learn more
+            </button>
+          </div>
+        </div>
+      </div>
+      <!-- Content End -->
+
+      <!-- Content Start -->
+      <div class="bg-gray-100 flex flex-col items-center justify-center">
+        <div class="text-center p-10">
+            <p class="font-bold text-4xl">What our customers are saying about us</p>
+        </div>
+
+        <!-- Grid -->
+        <div class="grid grid-cols-2 gap-24 p-20">
+          <!-- Card-1 Start -->
+          <div class="bg-gray-50 rounded p-10 w-[400px] min-h-[420px] relative shadow-md">
+            <div style="width: 25px; height: 25px;">
+              <svg class="fill-violet-600" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+                <g>
+                  <path d="M0,469.3h41l189.4-180.4V42.7H0V469.3z M34.1,76.8h162.1v197.5L34.1,428.7V76.8z"/>
+                  <path d="M281.6,42.7v426.7h41L512,288.9V42.7H281.6z M477.9,274.3L315.7,428.7V76.8h162.1V274.3z"/>
+                </g>
+              </svg>
+            </div>
+            <p class="p-2 text-center font-bold">Lorem ipsum dolor sit amet consectetur adipisicing elit. Non quaerat voluptates eius blanditiis, voluptas, soluta consectetur aliquam harum eveniet laudantium culpa quo distinctio assumenda voluptatem ipsa doloribus ad! Impedit, nam.</p>
+            <div class="absolute right-9" style="width: 25px; height: 25px;">
+              <svg class="fill-violet-600" version="1.1" id="Layer_1" xmlns="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+                <g>
+                  <path d="M471,42.7L281.6,223.1v246.2H512V42.7H471z M477.9,435.2H315.7V237.7L477.9,83.3V435.2z"/>
+                  <path d="M0,223.1v246.2h230.4V42.7h-41L0,223.1z M196.3,435.2H34.1V237.7L196.3,83.3V435.2z"/>
+                </g>
+              </svg>
+            </div>
+            <div class="absolute bottom-0 left-0 w-full bg-violet-600 rounded pt-10 pb-10">
+              <div class="absolute top-0 left-1/2 transform -translate-y-1/2 -translate-x-1/2 justify-center">
+                <img class="rounded-full" src="https://picsum.photos/id/58/60/60" alt="">
+              </div>
+              <p class="text-white text-center text-bold text-xl">Distinctio Animi</p>
+              <p class="text-white text-center text-xs">ALIQUAM ILLUM</p>
+            </div>
+          </div>
+
+          <!-- Card 2 Start -->
+          <div class="bg-gray-50 rounded p-10 w-[400px] min-h-[420px] relative shadow-md">
+            <div style="width: 25px; height: 25px;">
+              <svg class="fill-violet-600" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+                <g>
+                  <path d="M0,469.3h41l189.4-180.4V42.7H0V469.3z M34.1,76.8h162.1v197.5L34.1,428.7V76.8z"/>
+                  <path d="M281.6,42.7v426.7h41L512,288.9V42.7H281.6z M477.9,274.3L315.7,428.7V76.8h162.1V274.3z"/>
+                </g>
+              </svg>
+            </div>
+            <p class="p-2 text-center font-bold">Lorem ipsum dolor sit amet consectetur adipisicing elit. Non quaerat voluptates eius blanditiis, voluptas, soluta consectetur aliquam harum eveniet laudantium culpa quo distinctio assumenda voluptatem ipsa doloribus ad! Impedit, nam.</p>
+            <div class="absolute right-9" style="width: 25px; height: 25px;">
+              <svg class="fill-violet-600" version="1.1" id="Layer_1" xmlns="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+                <g>
+                  <path d="M471,42.7L281.6,223.1v246.2H512V42.7H471z M477.9,435.2H315.7V237.7L477.9,83.3V435.2z"/>
+                  <path d="M0,223.1v246.2h230.4V42.7h-41L0,223.1z M196.3,435.2H34.1V237.7L196.3,83.3V435.2z"/>
+                </g>
+              </svg>
+            </div>
+            <div class="absolute bottom-0 left-0 w-full bg-violet-600 rounded pt-10 pb-10">
+              <div class="absolute top-0 left-1/2 transform -translate-y-1/2 -translate-x-1/2 justify-center">
+                <img class="rounded-full" src="https://picsum.photos/id/58/60/60" alt="">
+              </div>
+              <p class="text-white text-center text-bold text-xl">Distinctio Animi</p>
+              <p class="text-white text-center text-xs">ALIQUAM ILLUM</p>
+            </div>
+          </div>
+
+          <!-- Card-3 Start -->
+          <div class="bg-gray-50 rounded p-10 w-[400px] min-h-[420px] relative shadow-md">
+            <div style="width: 25px; height: 25px;">
+              <svg class="fill-violet-600" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+                <g>
+                  <path d="M0,469.3h41l189.4-180.4V42.7H0V469.3z M34.1,76.8h162.1v197.5L34.1,428.7V76.8z"/>
+                  <path d="M281.6,42.7v426.7h41L512,288.9V42.7H281.6z M477.9,274.3L315.7,428.7V76.8h162.1V274.3z"/>
+                </g>
+              </svg>
+            </div>
+            <p class="p-2 text-center font-bold">Lorem ipsum dolor sit amet consectetur adipisicing elit. Non quaerat voluptates eius blanditiis, voluptas, soluta consectetur aliquam harum eveniet laudantium culpa quo distinctio assumenda voluptatem ipsa doloribus ad! Impedit, nam.</p>
+            <div class="absolute right-9" style="width: 25px; height: 25px;">
+              <svg class="fill-violet-600" version="1.1" id="Layer_1" xmlns="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+                <g>
+                  <path d="M471,42.7L281.6,223.1v246.2H512V42.7H471z M477.9,435.2H315.7V237.7L477.9,83.3V435.2z"/>
+                  <path d="M0,223.1v246.2h230.4V42.7h-41L0,223.1z M196.3,435.2H34.1V237.7L196.3,83.3V435.2z"/>
+                </g>
+              </svg>
+            </div>
+            <div class="absolute bottom-0 left-0 w-full bg-violet-600 rounded pt-10 pb-10">
+              <div class="absolute top-0 left-1/2 transform -translate-y-1/2 -translate-x-1/2 justify-center">
+                <img class="rounded-full" src="https://picsum.photos/id/58/60/60" alt="">
+              </div>
+              <p class="text-white text-center text-bold text-xl">Distinctio Animi</p>
+              <p class="text-white text-center text-xs">ALIQUAM ILLUM</p>
+            </div>
+          </div>
+
+          <!-- Card-4 Start -->
+          <div class="bg-gray-50 rounded p-10 w-[400px] min-h-[420px] relative shadow-md">
+            <div style="width: 25px; height: 25px;">
+              <svg class="fill-violet-600" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+                <g>
+                  <path d="M0,469.3h41l189.4-180.4V42.7H0V469.3z M34.1,76.8h162.1v197.5L34.1,428.7V76.8z"/>
+                  <path d="M281.6,42.7v426.7h41L512,288.9V42.7H281.6z M477.9,274.3L315.7,428.7V76.8h162.1V274.3z"/>
+                </g>
+              </svg>
+            </div>
+            <p class="p-2 text-center font-bold">Lorem ipsum dolor sit amet consectetur adipisicing elit. Non quaerat voluptates eius blanditiis, voluptas, soluta consectetur aliquam harum eveniet laudantium culpa quo distinctio assumenda voluptatem ipsa doloribus ad! Impedit, nam.</p>
+            <div class="absolute right-9" style="width: 25px; height: 25px;">
+              <svg class="fill-violet-600" version="1.1" id="Layer_1" xmlns="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+                <g>
+                  <path d="M471,42.7L281.6,223.1v246.2H512V42.7H471z M477.9,435.2H315.7V237.7L477.9,83.3V435.2z"/>
+                  <path d="M0,223.1v246.2h230.4V42.7h-41L0,223.1z M196.3,435.2H34.1V237.7L196.3,83.3V435.2z"/>
+                </g>
+              </svg>
+            </div>
+            <div class="absolute bottom-0 left-0 w-full bg-violet-600 rounded pt-10 pb-10">
+              <div class="absolute top-0 left-1/2 transform -translate-y-1/2 -translate-x-1/2 justify-center">
+                <img class="rounded-full" src="https://picsum.photos/id/58/60/60" alt="">
+              </div>
+              <p class="text-white text-center text-bold text-xl">Distinctio Animi</p>
+              <p class="text-white text-center text-xs">ALIQUAM ILLUM</p>
+            </div>
+          </div>
+        </div>
+        <!-- Grid End -->
+      </div>
+      <!-- Content End -->
+
+
+      <div class="flex flex-col items-center justify-center p-20 bg-gray-300">
+        <!-- Contact us -->
+        <div class="bg-gray-50 w-[500px] flex flex-col p-5 rounded">
+          <p class="font-bold text-3xl mb-5">Contact Us</p>
+          <form action="post" class="flex flex-col">
+            <label for="name">Name</label>
+            <input id="name" type="text" placeholder="Your name" class="w-full bg-gray-100 mb-5 h-10 rounded pl-2 text-sm">
+      
+            <label for="email">Email</label>
+            <input id="email" type="email" placeholder="Your email" class="w-full bg-gray-100 mb-5 h-10 rounded pl-2 text-sm">
+      
+            <label for="message">Message</label>
+            <textarea name="message" id="message" placeholder="Message..." class="w-full bg-gray-100 mb-5 rounded pl-2 text-sm"></textarea>
+            <button class="bg-violet-600 w-full p-3 text-white rounded" type="submit">Send</button>
+          </form>
+        </div>
+      
+        <!-- Footer -->
+        <div class="flex flex-row justify-between items-center w-full pt-20">
+          <!-- Links -->
+          <ul class="flex flex-row space-x-6">
+            <li class="font-bold">Shop</li>
+            <li class="font-bold">About</li>
+            <li class="font-bold">Blog</li>
+            <li class="font-bold">Pricing</li>
+            <li class="font-bold">Contact</li>
+          </ul>
+      
+          <!-- Social Media Icons -->
+          <div class="flex flex-row space-x-4">
+            <div class="bg-violet-600 rounded-full w-10 h-10 items-center justify-center flex">
+              <i class="fa-brands fa-instagram text-white"></i>
+            </div>
+            <div class="bg-violet-600 rounded-full w-10 h-10 items-center justify-center flex">
+              <i class="fa-brands fa-pinterest text-white"></i>
+            </div>
+            <div class="bg-violet-600 rounded-full w-10 h-10 items-center justify-center flex">
+              <i class="fa-brands fa-twitter text-white"></i>
+            </div>
+            <div class="bg-violet-600 rounded-full w-10 h-10 items-center justify-center flex">
+              <i class="fa-brands fa-facebook text-white"></i>
+            </div>
+            <div class="bg-violet-600 rounded-full w-10 h-10 items-center justify-center flex">
+              <i class="fa-brands fa-google text-white"></i>
+            </div>
+          </div>
+        </div>
+        <!-- Footer End -->
+      </div>
+
+     
+        
+      
+</body>
+</html>
