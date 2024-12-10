@@ -32,7 +32,7 @@ project-root/
 
 ## Technologies Used
 
--- **HTML5**: The structure of the web page.
--- **CSS3**: For basic styling.
--- **Tailwind CSS**: For responsive, utility-first design.
--- **JavaScript (Optional)**: For enhanced interactivity, such as the search bar (if applicable).
+- **HTML5**: The structure of the web page.
+- **CSS3**: For basic styling.
+- **Tailwind CSS**: For responsive, utility-first design.
+- **JavaScript (Optional)**: For enhanced interactivity, such as the search bar (if applicable).
