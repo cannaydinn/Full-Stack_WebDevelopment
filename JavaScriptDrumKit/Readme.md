@@ -44,6 +44,6 @@ DrumKitProject/
 ---
 
 ### Live
-[Drum Kit](https://github-cannaydinn.github.io/Full-Stack_WebDevelopment/edit/main/JavaScriptDrumKit)
+[Drum Kit](https://cannaydinn.github.io/Full-Stack_WebDevelopment/JavaScriptDrumKit)
 ![Proje Ekran Görüntüsü](img/Page-1.png)
 
