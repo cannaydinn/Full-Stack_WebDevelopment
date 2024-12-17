@@ -1,0 +1,28 @@
+body{
+    background-color: #2C3D4F;
+}
+
+.container{
+    text-align: center;
+    justify-content: center;
+}
+
+.buttons{
+    padding-top: 50px;
+}
+
+.drum{
+    border-radius: 10px;
+    border: none;
+    background-color: #3498DA;
+    color: white;
+    width: 75px;
+    height: 75px;
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.title{
+    font-size: 50px;
+    color: white;
+}
