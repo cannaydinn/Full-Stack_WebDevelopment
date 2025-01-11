@@ -1,0 +1,41 @@
+
+body {
+    background-color: rgb(51, 51, 51);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    height: 420px;
+    flex-direction: column;
+    width: 820px;
+    background-color: rgb(85, 85, 85);
+    border-radius: 5px;
+
+    box-shadow: 0 0 15px 5px rgba(0, 0, 0, 0.3);
+}
+
+.container p{
+    color: rgb(219, 219, 219);
+}
+
+.container h3,
+.container button{
+    color: white;
+}
+
+.container button{
+    background-color: purple;
+
+}
+
+.container button:hover{
+    background-color: plum;
+}
