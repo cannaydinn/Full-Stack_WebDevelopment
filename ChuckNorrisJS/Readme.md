@@ -2,6 +2,8 @@
 
 Welcome to the **Chuck Norris Jokes App**! This simple and fun web application fetches random Chuck Norris jokes from an external API and displays them on your screen. You can keep clicking the button to generate a new joke every time!
 
+![ImageText](images/chuck-norris.png)
+
 ## Features
 
 - Fetches random jokes about Chuck Norris using the [Chuck Norris API](https://api.chucknorris.io/).
