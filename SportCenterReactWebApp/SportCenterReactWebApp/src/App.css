@@ -1,0 +1,426 @@
+:root{
+  --font-color-1: #fff;
+  --font-color-2: rgb(53, 85, 145);
+  --font-color-3: #000;
+  --font-color-4: rgb(80, 80, 80);
+  
+  --background-color-1: rgb(53, 85, 145);
+  --background-color-2: rgb(242, 248, 254);
+  --background-color-3: #000;
+  --background-color-4: rgb(246, 246, 246);
+  --background-color-5: #fff;
+  --background-color-6: rgb(243, 156, 14);
+
+  --border-color: #fff;
+  --orange-line: rgb(247, 157, 9);
+}
+
+body{
+  background-color: #355592;
+}
+
+.section{
+  padding: 25px 0;
+}
+
+.section .section-title{
+  padding: 30px 0 35px 0;
+}
+
+.section .section-title h3{
+  color: var(--font-color-2);
+  font-weight: 900;
+  text-align: center; 
+  margin-bottom: 20px;
+}
+
+.section-title .orange-line{
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  height: 7px;
+  width: 100px;
+  background-color: var(--orange-line);
+  border-radius: 4px;
+  padding: 0;
+}
+
+.section-title .text{
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 550px;
+  margin-top: 32px;
+}
+
+.section-title .text p{
+  color: var(--font-color-4);
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.section-content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+}
+
+.section-ice-blue{
+  background-color: var(--background-color-2);
+}
+
+.section-white{
+  background-color: var(--background-color-5);
+}
+
+
+@media (min-width: 577px) {
+  .menu-toggle{
+      display: none;
+  }
+
+  .menu-close{
+      display: none;
+  }
+}
+
+@media (max-width: 576px) {
+  html, body {
+      margin: 0;
+      padding: 0;
+      overflow-x: hidden;
+      width: 100%;
+  }
+  
+  #header{
+      margin: 0;
+      padding: 0;
+  }
+
+  #header .container {
+      display: flex;
+      justify-content: space-between; /* Elemanları iki uca yayar */
+      align-items: center;
+      text-align: center;
+  }
+  
+  #header .container .logo img {
+      margin: 0;
+      left: 0;
+      width: 250px;
+      top: 5px;
+  }
+  
+  
+  #header .container .menu-toggle {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-size: 58px;
+      background: none;
+      border: none;
+      color: #fff;
+      cursor: pointer;
+  }
+
+  #header .container .navbar.open {
+      display: flex;
+      width: 100%;
+      height: 100vh;
+      flex-direction: column; /* Mobilde alt alta dizilir */
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      background-color: var(--background-color-1);
+      z-index: 1000;
+      justify-content: center;
+  }
+
+  .menu-close {
+      position: absolute; /* Menü içinde sabitlenir */
+      top: 10px; /* Üstten boşluk */
+      right: 10px; /* Sağdan boşluk */
+      background: none;
+      border: none;
+      color: #fff;
+      font-size: 58px;
+      cursor: pointer;
+      z-index: 1100; /* Menünün üstünde görünür */
+  }
+  
+  
+  
+  #header .container .navbar .navbar-nav {
+      flex-direction: column;
+      list-style: none;
+  }
+
+  #header .container .navbar-nav .nav-item{
+      right: 0;
+  }
+  
+  
+  #header .container .navbar-nav .nav-item .nav-link {
+      text-decoration: none;
+      color: #fff;
+      font-size:24px;
+  }
+  
+  .navbar {
+      display: none; /* Menü başlangıçta gizli */
+  }
+
+  
+
+  #header .text-overlay{
+      left: 26%;
+      padding: 0;
+      width: 532px;
+  }
+
+  #header .text-overlay h5{
+      margin: 0;
+      font-size: 22px;
+  }
+
+  #header .text-overlay h2{
+      font-size: 46px;
+  }
+
+  #header .text-overlay p{
+      padding: 5px;
+      margin: 0;
+      font-size: 20px;
+      margin-bottom: 10px;
+  }
+
+  #header .text-overlay button{
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      margin-bottom: 10px;
+      font-size: 20px;
+
+  }
+
+  .section-ice-blue .container .row{
+      flex-direction: column;
+  }
+
+  .section-ice-blue .container .row .box {
+      width: 100% !important; /* Genişlik tam ekran olacak */
+      max-width: 400px; /* Maksimum genişlik */
+      height: 150px; /* Daha büyük yükseklik */
+      margin: 10px auto; /* Ortalamak için margin ayarı */
+  }
+
+  .trapezoid {
+      width: 350px !important;
+      height: 900px !important;
+  }
+
+
+  .section-title .text{
+      width: 440px;
+  }
+
+  .section-title h3{
+      font-size: 30px;
+  }
+
+  .section-title .text p{
+      font-size: 20px;
+  }
+
+  .section-white .container .section-content .row .box{
+      margin-bottom: 20px;
+  }
+
+  .section-white .row .classes {
+      display: flex;
+      flex-direction: column; 
+      justify-content: flex-start; 
+      align-items: center; 
+      text-align: left; 
+  }
+
+  .section-white .row .classes .col-4 {
+      width: 100%; 
+      margin-bottom: 20px;
+  }
+
+  .section-white .row .classes .col-4 img {
+      width: 100%;
+      height: auto;
+      margin: 0;
+      padding: 0;
+
+  }
+
+  .section-white .row .classes p,
+  .section-white .row .classes h4{
+      text-align: left;
+      color: var(--font-color-4);
+  }
+
+  .section-white .row h4{
+      font-weight: 900;
+      font-size: 32px;
+  }
+
+  .section-white .row .classes p{
+      font-size: 20px;
+
+  }
+
+  .section-white .row .calculator {
+      display: flex;
+      flex-direction: column; 
+      justify-content: flex-start; 
+      align-items: center; 
+      text-align: left; 
+  }
+
+  .section-white .row .calculator .col-4 {
+      width: 100%; 
+      margin-bottom: 20px;
+  }
+
+  .section-white .container .section-content .row .calculator h3{
+      font-size: 48px;
+  }
+
+  .section-white .container .section-content .row .calculator p{
+      font-size: 20px;
+      margin-bottom: 10px;
+  }
+
+  .section-white .container .section-content .row .calculator .bmi{
+      display: flex;
+
+  }
+
+  .section-white .container .section-content .row .calculator input{
+      display: flex;
+      flex-direction: column;
+      margin-bottom: 10px;
+      border-color: 1px solid #000;
+      margin-right: 5px;
+  }
+
+  .section-white .container .section-content .row .calculator .bmi-container img{
+      width: 100%;
+      height: auto;
+  }
+
+  .section-white .container .section-content .row .calculator .bmi-container .bmi-scale {
+      position: absolute;
+      width: 420px;
+      height: 15px;
+      left: 46px;
+  }
+
+  .section-ice-blue .row h3{
+      font-weight: 900;
+      font-size: 32px;
+  }
+
+  .section-ice-blue .row .trainer p{
+      font-size: 20px;
+
+  }
+
+
+  .section-ice-blue .container .section-content .row .trainer-card{
+      width: 100%;
+      margin: 30px 0;
+  }
+
+  .section-ice-blue .container .section-content .row .trainer-card img{
+      max-width: max-content;
+  }
+
+  .section-ice-blue .container .section-content .row .trainer-card .cardio-banner {
+      position: absolute;
+      transform: translate(-3%, -2%);
+      width: 318px;
+      height: 365px;
+      clip-path: 
+                polygon(35% 0%,/* Üst yatay sol */
+                        65% 0%,  /* Üst yatay sağ */
+                        65% 35%, /* Sağ dikey üst */
+                        100% 35%,/* Sağ dikey sağ */
+                        100% 65%,/* Sağ dikey alt */
+                        65% 65%, /* Alt yatay sağ */
+                        65% 100%,/* Alt yatay alt */
+                        35% 100%,/* Alt yatay sol */
+                        35% 65%, /* Sol dikey alt */
+                        0% 65%,  /* Sol dikey sol */
+                        0% 35%,  /* Sol dikey üst */
+                        35% 35%  
+                );
+      background-color: rgba(30, 76, 143, 0.9);
+      z-index: 1; /* Görselin arkasında */
+    }
+  
+  .section-white .container .section-content .row .col-md-3{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 20px;
+  }
+
+  #contact .container .row .container p{
+      font-size: 22px;
+  }
+
+  #contact .container .row .contactForm p{
+      font-size: 26px;
+
+  }  
+
+  .contactForm input, 
+  .contactForm textarea{
+      font-size: 20px;
+  }
+
+  #contact .container .row .col-lg-6:nth-child(2) iframe{
+      width: 100%;
+      height: 450px;
+  }
+
+
+  .footer .container .text-center .footer-logo{
+      text-align: left;
+      margin-bottom: 10px;
+  }
+
+  .footer .container .text-center p{
+      text-align: left;
+      font-size: 24px;
+      line-height: normal;
+  }
+
+  .footer .container .row{
+      margin-left: 22px;
+  }
+
+  .footer .container .row h5{
+      font-size: 32px;
+      text-align: start;
+  }
+  .footer .container .row .footer-links{
+      text-align: start;
+  }
+
+  .footer .container .row .footer-links a{
+      font-size: 20px;
+  }   
+}

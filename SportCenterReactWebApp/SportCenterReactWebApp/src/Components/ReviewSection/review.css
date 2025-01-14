@@ -1,0 +1,31 @@
+.review-card {
+    position: relative;
+}
+
+.review-header img {
+    border: 2px solid #ddd; /* Görsel çevresine hafif çerçeve */
+}
+
+.review-header .review-name {
+    font-size: 1.1rem;
+}
+
+.review-header .review-title {
+    font-size: 0.9rem;
+}
+
+.review-text {
+
+    background-color: var(--background-color-1); /* Koyu mavi arka plan */
+}
+
+.review-text p {
+    font-size: 0.95rem;
+}
+
+
+.section-content .review-text p{
+    color: var(--font-color-1);
+    text-align: justify;
+}
+

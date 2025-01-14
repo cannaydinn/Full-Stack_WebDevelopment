@@ -1,0 +1,44 @@
+.footer {
+    background-color: #1e3a78; /* Mavi arka plan */
+    color: #fff; /* Beyaz metin */
+    padding: 40px 0;
+}
+
+.footer-logo {
+    margin-bottom: 20px;
+}
+
+.footer-logo img {
+    max-width: 250px; /* Logo boyutunu ayarla */
+    height: auto;
+}
+
+.footer p {
+    line-height: 1.6;
+}
+
+.footer h5 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.footer-links {
+    text-align: center;
+    list-style: none;
+    padding: 0;
+}
+
+.footer-links li {
+    margin-bottom: 8px;
+}
+
+.footer-links a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}

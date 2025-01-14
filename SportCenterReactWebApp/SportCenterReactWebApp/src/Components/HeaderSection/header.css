@@ -1,0 +1,199 @@
+#header {
+    position: relative;
+    height: 100%;
+}
+
+#header img {
+    width: 100%;
+    height: 730px;
+    object-fit: cover; /* Konteynere sığacak şekilde kırp */
+    object-position: center top; /* Üstten hizala */
+    margin-top: -50px; /* Üstten 50px kırp */
+    position: relative;
+    z-index: 1;
+}
+
+#header .container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: space-between; /* Logo ve navbar arasında boşluk */
+    z-index: 10; /* Fotoğrafın üstünde kalmasını sağla */
+    
+    
+}
+
+#header .container.scrolled{
+    background-color: #355592;
+}
+
+
+
+
+
+#header .logo img {
+    position: relative;
+    display: block;
+    margin-left: 150px;
+    width: 200px;
+    height: auto;
+    margin-top: 4px;
+    left: 20%;
+}
+
+#navbar {
+    padding: 0;
+}
+
+#navbar ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style: none;
+}
+
+#navbar li {
+    position: relative;
+    padding: 6px 10px;
+    right: 35%;
+}
+
+#navbar li a {
+    font-size: 16px;
+    font-weight: 700;
+    padding: 5px;
+    cursor: pointer;
+    color: white; /* Beyaz renk */
+    text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5); /* Daha iyi görünürlük */
+}
+
+#navbar ul a:hover {
+    color: #ffa500; /* Hover rengi */
+}
+
+/* JOIN US Butonu */
+.navbar-nav .join-btn {
+    background: #ffa500;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 2px;
+    transition: background 0.3s ease;
+}
+
+#navbar ul .join-btn:hover {
+    background: #ff8c00;
+    color: #000;
+}   
+
+
+.text-overlay {
+    position: absolute;
+    top: 40%;
+    left: 32%;
+    transform: translate(-25%, -25%);
+    color: #fff;
+    padding: 20px;
+    z-index: 2;
+}
+
+.text-overlay h5{
+    display: inline-block;
+    background-color: var(--background-color-1);
+    padding: 5px 10px;
+    border-radius: 5px;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.8);
+    font-weight: 700;
+}
+
+.text-overlay h2 {
+    width: 370px;
+    font-size: 55px;
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.text-overlay p {
+    font-size: 24px;
+    font-weight: 700;
+    background: rgba(0, 0, 0, 0.5); 
+    padding: 5px;
+
+}
+
+.text-overlay .btn {
+    font-weight: 700;
+    color: #fff;
+    padding: 10px 20px;
+    margin: 0 5px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.text-overlay .btn-signup{
+    background: var(--background-color-1);
+    border: none;
+}
+
+.text-overlay .btn-details {
+    border: 1px solid var(--border-color);
+}
+
+.text-overlay .btn-signup:hover {
+    background: #fff;
+    color: var(--background-color-1);
+}
+
+.text-overlay .btn-details:hover {
+    background: #fff;
+    color: var(--font-color-3);
+}
+
+.section-ice-blue .container .row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-ice-blue .container .row .box{
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--background-color-5);
+    width: 200px;
+    height: 100px;
+    margin: 5px;
+}
+
+.box p{
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    padding-bottom: 5px;
+}
+
+.box p:first-child{
+    color: var(--font-color-2);
+    font-weight: 900;
+}
+
+.box p:nth-child(2){
+    color: var(--font-color-3);
+    font-weight: 900;
+}
+
+
+
+

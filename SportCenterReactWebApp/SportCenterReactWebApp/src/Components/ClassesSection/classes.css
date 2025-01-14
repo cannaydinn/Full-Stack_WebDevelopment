@@ -1,0 +1,185 @@
+.section-white {
+    width: 100%;
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    padding: 25px 0;
+    position: relative;
+    height: auto; /* İçerik taşarsa uzamasına izin ver */
+}
+
+.trapezoid-wrapper {
+    width: 100%; 
+    display: flex;
+    justify-content: flex-end; 
+}
+
+.trapezoid {
+    margin-top: -25px;
+    width: 912px;
+    height: 800px;
+    background-color: var(--background-color-4);
+    clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 20% 100%);
+    position: absolute;
+}
+
+.section-white .container{
+    position: relative;
+}
+
+
+.section-white .container .row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-white .container .row .box{
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    background-color: transparent; 
+    width: 100px; 
+    height: 50px; 
+    box-sizing: content-box;
+    margin: 0 50px;
+}
+
+.section-white .container .row .box .btn-yoga,
+.section-white .container .row .box .btn-group,
+.section-white .container .row .box .btn-solo,
+.section-white .container .row .box .btn-stretching{
+    background-color: var(--background-color-1);
+    color: var(--font-color-1);
+    font-weight: 900;
+    width: 116px;
+    height: 100px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.section-white .container .row .box .btn.active {
+    background-color: var(--background-color-6);
+    position: relative;
+}
+
+.section-white .container .row .box .btn.active::after {
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-width: 10px 10px 0;
+    border-style: solid;
+    border-color: var(--background-color-6) transparent transparent transparent;
+}
+
+.section-white .buttons .row {
+    margin-bottom: 80px; /* Butonlar ile içerik arasında daha fazla boşluk */
+}
+
+.section-white .row .content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.section-white .row .classes p,
+.section-white .row .classes h4{
+    text-align: left;
+    color: var(--font-color-4);
+}
+
+.section-white .row h4{
+    font-weight: 900;
+}
+
+.section-white .row .classes p{
+    margin-bottom: 30px;
+    font-weight: 700;
+    text-align: justify;
+
+}
+
+.section-white .row .classes .col-4{
+    margin: 0 40px;
+
+}
+
+.section-white .row .classes img{
+    width: 400px;
+    height: 264px;
+}
+
+.section-white .row .calculator{
+    margin-top: 50px;
+}
+
+.section-white .row .calculator p,
+.section-white .row .calculator h3{
+    text-align: left;
+}
+
+.section-white .row .calculator h3{
+    color: var(--font-color-2);
+    font-weight: 900;
+    font-size: 40px;
+}
+
+.section-white .row .calculator .col-4:first-child p{
+    color: var(--font-color-4);
+    font-weight: 700;
+}
+
+.section-white .row .calculator .col-4:nth-child(2) p{
+    margin-bottom: 5px;
+    padding: 0;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.section-white .row .calculator .col-4 img{
+    width: 764px;
+    height: 228px;
+}
+
+.section-white .row .calculator .col-4{
+    margin: 0 80px;
+}
+
+.section-white .row .calculator{
+    position: relative;
+    margin-bottom: 50px; /* Alt boşluk */
+    text-align: center;
+}
+
+.bmi-container {
+    position: relative;
+    width: fit-content;
+    margin: auto;
+    text-align: center;
+}
+
+.bmi-scale {
+    position: absolute;
+    width: 350px;
+    height: 15px;
+    left: 39px;
+}
+
+.bmi-arrow {
+    position: absolute;
+    transform: translateX(-50%);
+    border-width: 0 15px 15px 15px;
+    border-style: solid;
+    border-color: transparent transparent var(--background-color-6) transparent;
+    transition: left 0.3s ease-in-out;
+}
+
+
+
+

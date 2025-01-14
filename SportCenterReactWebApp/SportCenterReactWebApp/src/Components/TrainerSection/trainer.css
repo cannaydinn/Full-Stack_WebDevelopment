@@ -1,0 +1,90 @@
+
+.trainer-card {
+    position: relative;
+    text-align: center;
+    height: 350px;
+    margin: 0 50px;
+  }
+  
+  
+  .cardio-banner {
+    position: absolute;
+    transform: translate(-3%, -2%);
+    width: 313px;
+    height: 366px;
+    clip-path: 
+              polygon(35% 0%,/* Üst yatay sol */
+                      65% 0%,  /* Üst yatay sağ */
+                      65% 35%, /* Sağ dikey üst */
+                      100% 35%,/* Sağ dikey sağ */
+                      100% 65%,/* Sağ dikey alt */
+                      65% 65%, /* Alt yatay sağ */
+                      65% 100%,/* Alt yatay alt */
+                      35% 100%,/* Alt yatay sol */
+                      35% 65%, /* Sol dikey alt */
+                      0% 65%,  /* Sol dikey sol */
+                      0% 35%,  /* Sol dikey üst */
+                      35% 35%  
+              );
+    background-color: rgba(30, 76, 143, 0.9);
+    z-index: 1; /* Görselin arkasında */
+  }
+  
+  /* Görsel */
+  .trainer-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: relative;
+    z-index: 2; /* Görsel banner'ın üstünde */
+    border: 2px solid orange; 
+    border-radius: 5px; 
+  }
+  
+  /* Metin İçeriği (Hover ile Görünen Banner) */
+  .cardio-content {
+    position: absolute;
+    bottom: 5%; 
+    left: 12%; 
+    width: 75%;
+    background: rgba(30, 76, 143, 0.9);
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    opacity: 0; 
+    transform: translateY(100%);
+    clip-path: polygon(15% 0%,/* Üst yatay sol */
+                        85% 0%,  /* Üst yatay sağ */
+                        85% 15%, /* Sağ dikey üst */
+                        100% 15%,/* Sağ dikey sağ */
+                        100% 85%,/* Sağ dikey alt */
+                        85% 85%, /* Alt yatay sağ */
+                        85% 100%,/* Alt yatay alt */
+                        15% 100%,/* Alt yatay sol */
+                        15% 85%, /* Sol dikey alt */
+                        0% 85%,  /* Sol dikey sol */
+                        0% 15%,  /* Sol dikey üst */
+                        15% 15%
+                );
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    z-index: 3; /* En üstte */
+    border-radius: 5px; 
+  }
+  
+  /* Hover Efekti */
+  .trainer-card:hover .cardio-content {
+    opacity: 1; /* Görünür hale gelir */
+    transform: translateY(0); /* Yükselir */
+  }
+  
+  .cardio-content h2 {
+    font-size: 16px; 
+    margin: 0;
+  }
+  
+  .cardio-content p {
+    font-size: 12px; 
+    margin: 5px 0 0;
+  }
+  
+  
